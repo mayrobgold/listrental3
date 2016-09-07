@@ -2,7 +2,7 @@ body {
     background: #fff;
     color: #000;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 20px;
     font-family: "ff-basic-gothic-web-pro", Verdana,Arial,Sans-serif;
 }
 
@@ -17,11 +17,11 @@ a.actorLink, #deadwoodjohn, #forkme {
 }
 
 #mainText {
-    -moz-column-gap: 40px;
+    -moz-column-gap: 30px;
     -moz-column-width: 850px;
-    -webkit-column-gap: 40px; 
+    -webkit-column-gap: 30px; 
     -webkit-column-width: 850px;
-    column-gap: 40px; 
+    column-gap: 30px; 
     column-width: 850px;    
 }
 
