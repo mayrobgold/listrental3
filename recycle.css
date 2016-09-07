@@ -2,7 +2,7 @@ body {
     background: #fff;
     color: #000;
     font-size: 16px;
-    line-height: 8px;
+    line-height: 16px;
     font-family: "ff-basic-gothic-web-pro", Verdana,Arial,Sans-serif;
 }
 
@@ -39,7 +39,7 @@ p {
 #canvas {
     background-color: #f0f0ee;
     border: thin solid #E9E9E9;
-    border-radius: 12px;
+    border-radius: 16px;
 }
 
 #nocanvas {
